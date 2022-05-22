@@ -270,4 +270,16 @@ h4 {
 }
 
 .socials_icon {
+    height: 100%;}
+
+.music_icon_container {
     height: 100%;
+    width: 20%;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.music_icon {
+    height: 80%;
+    margin: auto;
+}
