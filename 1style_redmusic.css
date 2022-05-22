@@ -251,8 +251,9 @@ h4 {
 .link_text {
     font-size: 50px;
     line-height:0.5em;
-    float: right;
-    margin-right: 0.5em;
+    text-align:center;
+    /**float: right;
+    margin-right: 0.5em;**/
 }
 
 
